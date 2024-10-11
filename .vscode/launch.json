@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "puredrops",
+            "cwd": "puredrops",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "puredrops (profile mode)",
+            "cwd": "puredrops",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "puredrops (release mode)",
+            "cwd": "puredrops",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
